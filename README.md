@@ -1,80 +1,26 @@
 # Brightwave Enterprises Movie Analysis
 
-A data analysis project examining box office performance, audience reception, and industry trends for Brightwave Enterprises, built with **Microsoft Excel**.
+This project looks at box office performance across films, directors, writers, stars, studios, and countries to help Brightwave understand where the industry's money is really going — and who's driving it.
 
-![Brightwave Dashboard](DASHBOARD%203.png)
+## What I Found
 
----
+M. Night Shyamalan was the highest-earning writer at $2.8 billion, with Takashi Bufford at the lower end. Action films absolutely dominated genre revenue at $159 billion, while biographies were a distant last at $35 billion. No surprise that the United States led country earnings by a massive margin — $428 billion compared to Australia's $4.7 billion.
 
-## Project Overview
-
-This report analyses box office revenue across genres, countries, directors, writers, studios, and stars, delivering actionable insights to guide future film investment and production decisions.
-
-**Areas covered:**
-- Revenue by genre and country
-- Top-performing directors, writers, and stars
-- Studio comparison by total earnings
-- Talent-level performance breakdowns
-
----
-
-## Tools & Technologies
-
-| Tool | Purpose |
-|------|---------|
-| Microsoft Excel | Data cleaning, analysis, and dashboard visualisation |
-
----
-
-## Key Findings
-
-| Metric | Best Performing | Lowest Performing |
-|--------|----------------|------------------|
-| Writer | M. Night Shyamalan ($2.80B) | Takashi Bufford ($2.21B) |
-| Genre | Action ($159.1B) | Biography ($35.7B) |
-| Country | United States ($428.6B) | Australia ($4.75B) |
-| Director | Sean Anders ($4.12B) | Robert Zemeckis ($2.57B) |
-| Studio | Universal Pictures ($37.2B) | Twentieth Century Fox ($15.4B) |
-| Star | Nicolas Cage (23.12%) | Jason Statham (15.38%) |
-
----
+Sean Anders was the standout director with $4.1 billion in earnings. Universal Pictures topped the studio rankings at $37 billion. Nicolas Cage led all stars with 23% of earnings share, while Jason Statham brought up the rear at 15%.
 
 ## Recommendations
 
-**Writers**
-- M. Night Shyamalan should continue his distinctive storytelling while collaborating with emerging talent.
-- Takashi Bufford should experiment with different genres and explore shorter formats to broaden audience reach.
+M. Night Shyamalan is clearly doing something right — he should keep pushing his distinctive style while bringing in fresh collaborators. Takashi Bufford would benefit from branching into different genres and exploring formats that attract a wider audience.
 
-**Genres**
-- Action films should maintain high-quality production and leverage star power to sustain dominance.
-- Biographies can improve by diversifying subjects, refining storytelling, and targeting niche or hybrid audiences.
+Action films should keep investing in quality production and strong storytelling — that's what's driving the numbers. Biographies have room to grow by targeting niche audiences more effectively or experimenting with hybrid genres.
 
-**Countries**
-- The US should continue leveraging its infrastructure and innovation ecosystem.
-- Australia should invest in economic diversification and workforce development to grow its film revenue.
+For directors like Robert Zemeckis who are underperforming relative to their reputation, exploring new genres and engaging more with current trends could reinvigorate their output.
 
-**Directors**
-- Sean Anders should build on his proven formula while continuing to innovate.
-- Robert Zemeckis should explore new genres and engage with current audience trends.
-
-**Studios**
-- Universal Pictures should maintain diverse content investment strategies.
-- Twentieth Century Fox should revitalise its brand and develop original projects that connect with modern audiences.
-
-**Stars**
-- Nicolas Cage should continue pursuing diverse, challenging roles.
-- Jason Statham should explore new genres and collaborate with varied directors to expand his range.
-
----
+Jason Statham has built a reliable brand — stepping outside his comfort zone with different directors and genres could unlock a new ceiling for his earnings.
 
 ## How to View
 
-1. Download `BRIGHTWAVE.xlsx`
-2. Open with Microsoft Excel or Google Sheets
-3. Navigate the sheets to explore the full analysis
+Download `BRIGHTWAVE.xlsx` and open it in Excel or Google Sheets.
 
 ---
-
-## About
-
 **Author:** [@Paul3995](https://github.com/Paul3995)
