@@ -1,17 +1,80 @@
-# BRIGHTWAVE-ENTERPRISES-MOVIE-ANALYSIS-
-this analysis offers key insight into box office results and audience reception .The report showcases successful films and emerging talents ,along with actionable recommendations for future projects to enhance market presence 
-Key insight from Analysis
-Night Shyamalan was the top writer, earning $2,797,501,328, while Takashi Bufford ranked lowest with $2,211,670,547.
-Action movies led the genres with $159,141,117,801, compared to biographies, which earned $35,656,663,073.
-The United States was the best-performing country, generating $428,579,849,730, while Australia had the least at $4,752,642,403.
-Sean Anders was the best director with $4,121,815,656, whereas Robert Zemeckis had the lowest at $2,571,672,252.
-Universal Pictures topped the companies with $37,232,347,925, while Twentieth Century Fox earned $15,357,511,275.
-Nicolas Cage was the best star with 23.12% of earnings, while Jason Statham had the least at 15.38%.
- 
-Recommendations:
-M. Night Shyamalan should continue innovating his unique storytelling style while expanding audience engagement and collaborating with emerging talent, whereas Takashi Bufford could benefit from experimenting with different genres, partnering with other filmmakers, enhancing audience interaction, and exploring shorter formats to attract a broader audience.
-Action movies should continue to invest in high-quality production, focus on compelling storylines, and leverage star power to maintain their success whereas Biography can improve by enhancing storytelling techniques, diversifying subjects, and targeting niche audiences or exploring hybrid genres to boost their appeal and performance 
-The US should continue to leverage its strengths in innovation and infrastructure, while Australia could benefit from enhancing its economic diversification, investing in technology, and improving workforce skills to boost performance
-Sean Anders should continue to innovate and build on his successful formula, while Robert Zemeckis could benefit from exploring new genres, collaborating with fresh talent, and engaging more with current audience trends to enhance his performance
-Universal Pictures should maintain its successful strategies and continue investing in diverse content, while Twentieth-century Fox could improve by focusing on revitalizing its brand, exploring new distribution methods, and developing original projects that resonate with modern audiences
-Nicolas Cage should continue to pursue diverse and challenging roles that showcase his talent, while Jason Statham could benefit from exploring new genres, collaborating with different directors, and taking on projects that expend his acting rangeto boost his performance
+# Brightwave Enterprises Movie Analysis
+
+A data analysis project examining box office performance, audience reception, and industry trends for Brightwave Enterprises, built with **Microsoft Excel**.
+
+![Brightwave Dashboard](DASHBOARD%203.png)
+
+---
+
+## Project Overview
+
+This report analyses box office revenue across genres, countries, directors, writers, studios, and stars, delivering actionable insights to guide future film investment and production decisions.
+
+**Areas covered:**
+- Revenue by genre and country
+- Top-performing directors, writers, and stars
+- Studio comparison by total earnings
+- Talent-level performance breakdowns
+
+---
+
+## Tools & Technologies
+
+| Tool | Purpose |
+|------|---------|
+| Microsoft Excel | Data cleaning, analysis, and dashboard visualisation |
+
+---
+
+## Key Findings
+
+| Metric | Best Performing | Lowest Performing |
+|--------|----------------|------------------|
+| Writer | M. Night Shyamalan ($2.80B) | Takashi Bufford ($2.21B) |
+| Genre | Action ($159.1B) | Biography ($35.7B) |
+| Country | United States ($428.6B) | Australia ($4.75B) |
+| Director | Sean Anders ($4.12B) | Robert Zemeckis ($2.57B) |
+| Studio | Universal Pictures ($37.2B) | Twentieth Century Fox ($15.4B) |
+| Star | Nicolas Cage (23.12%) | Jason Statham (15.38%) |
+
+---
+
+## Recommendations
+
+**Writers**
+- M. Night Shyamalan should continue his distinctive storytelling while collaborating with emerging talent.
+- Takashi Bufford should experiment with different genres and explore shorter formats to broaden audience reach.
+
+**Genres**
+- Action films should maintain high-quality production and leverage star power to sustain dominance.
+- Biographies can improve by diversifying subjects, refining storytelling, and targeting niche or hybrid audiences.
+
+**Countries**
+- The US should continue leveraging its infrastructure and innovation ecosystem.
+- Australia should invest in economic diversification and workforce development to grow its film revenue.
+
+**Directors**
+- Sean Anders should build on his proven formula while continuing to innovate.
+- Robert Zemeckis should explore new genres and engage with current audience trends.
+
+**Studios**
+- Universal Pictures should maintain diverse content investment strategies.
+- Twentieth Century Fox should revitalise its brand and develop original projects that connect with modern audiences.
+
+**Stars**
+- Nicolas Cage should continue pursuing diverse, challenging roles.
+- Jason Statham should explore new genres and collaborate with varied directors to expand his range.
+
+---
+
+## How to View
+
+1. Download `BRIGHTWAVE.xlsx`
+2. Open with Microsoft Excel or Google Sheets
+3. Navigate the sheets to explore the full analysis
+
+---
+
+## About
+
+**Author:** Paul Toluwase
