@@ -77,4 +77,4 @@ This report analyses box office revenue across genres, countries, directors, wri
 
 ## About
 
-**Author:** Paul Toluwase
+**Author:** [@Paul3995](https://github.com/Paul3995)
